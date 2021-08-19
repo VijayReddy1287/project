@@ -22,7 +22,7 @@ It will help in adding, deleting, sorting and searching of contacts.
 - Secure and consistent
 
 ## High Level Requirements
-|  Id  |            Description                  | Category  | Status      |
+|  Id  |            Description            | Category  | Status      |
 | ---- | --------------------------------- | --------  | ----------- |
 | HR01 | Operating system(windows10/linux) | Technical | Implemented |
 | HR02 | C language                        | Technical | Implemented |
